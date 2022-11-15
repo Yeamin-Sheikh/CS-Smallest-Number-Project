@@ -1,3 +1,7 @@
+# CS-Smallest-Number-Project
+A github repository for practicing finding the smallest number among the 3
+## Main Code  
+```
 using System;
 
 namespace smallest_Number
@@ -38,3 +42,4 @@ namespace smallest_Number
         }
     }
 }
+```
