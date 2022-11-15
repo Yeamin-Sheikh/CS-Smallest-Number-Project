@@ -1,0 +1,8 @@
+C:\Users\Yeamin\Desktop\smallest_number\smallest_number\smallest_number\bin\Debug\smallest_number.exe.config
+C:\Users\Yeamin\Desktop\smallest_number\smallest_number\smallest_number\bin\Debug\smallest_number.exe
+C:\Users\Yeamin\Desktop\smallest_number\smallest_number\smallest_number\bin\Debug\smallest_number.pdb
+C:\Users\Yeamin\Desktop\smallest_number\smallest_number\smallest_number\obj\Debug\smallest_number.csproj.AssemblyReference.cache
+C:\Users\Yeamin\Desktop\smallest_number\smallest_number\smallest_number\obj\Debug\smallest_number.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yeamin\Desktop\smallest_number\smallest_number\smallest_number\obj\Debug\smallest_number.csproj.CoreCompileInputs.cache
+C:\Users\Yeamin\Desktop\smallest_number\smallest_number\smallest_number\obj\Debug\smallest_number.exe
+C:\Users\Yeamin\Desktop\smallest_number\smallest_number\smallest_number\obj\Debug\smallest_number.pdb
